@@ -8,23 +8,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
-## Program:
-```
-/*# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-
-## AIM:
-To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-## Algorithm
 Step 1. Start
 
 Step 2. Load the California Housing dataset and select the first 3 features as input (X) and target variables (Y) (including the target price and another feature).
@@ -41,8 +24,8 @@ Step 6. Stop
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: T Thrishendra
-RegisterNumber:  212223230227
+Developed by: T Ajay
+RegisterNumber:  212223230007
 */
 ```
 
@@ -128,19 +111,6 @@ print(classification_report)
 ```
 ![image](https://github.com/user-attachments/assets/f5ca2376-c970-4b99-9f05-fdaed8d4a391)
 
-
-
-## Result:
-Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
-
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: T Ajay
-RegisterNumber:  212223230007
-*/
-```
-
-## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
 
 ## Result:
